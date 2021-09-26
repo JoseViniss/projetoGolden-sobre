@@ -1,0 +1,182 @@
+@font-face {
+    font-family: promo;
+    src: url(fontes/JosefinSans-Italic.ttf);
+ }
+
+ @font-face {
+    font-family: bebas;
+    src: url(fontes/BebasNeue-Regular.ttf);
+ }
+
+ @font-face {
+    font-family: opensans;
+    src: url(fontes/JosefinSans-Bold.ttf);
+ }
+
+ @font-face {
+    font-family: roboto;
+    src: url(fontes/Roboto-MediumItalic.ttf);
+ }
+
+ @font-face {
+    font-family: roboto2;
+    src: url(fontes/Roboto-Black.ttf);
+ }
+
+ @font-face {
+    font-family: futura;
+    src: url(fontes/FuturaPTCondBook.otf);
+ }
+
+ @font-face {
+    font-family: futura2;
+    src: url(fontes/FuturaPTCondBookOblique.otf);
+ }
+
+
+*{
+    box-sizing: border-box;
+}
+
+#topo{
+    background-color:#1C1C1C;
+    padding-top: 180px;
+    padding-bottom: 60px;
+    margin: -8px;
+}
+
+#menu_h{
+    list-style: none;
+    padding: 0;
+    position: absolute;
+    top: 120px;
+}
+
+#menu_h li{
+    display: inline;
+}
+
+#menu_h li a{
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: opensans, sans-serif;
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+#menu_h a:hover{
+    color: rgb(53, 53, 53);
+    text-decoration: none;
+}
+
+#banner{
+    position: absolute;
+    width: 1349px;
+    left: 0%;
+    top: 240px;
+}
+
+#logo{
+    position: absolute;
+    top: 0%;
+    left: 30%;
+    width: 500px;
+}
+
+main{
+    padding-top: 500px;
+    background-color: rgb(65, 65, 65);
+    margin-top: 8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
+
+h1{
+    position: absolute;
+    top: 250px;
+    left: 580px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: bebas, sans-serif;
+    font-size: 50px;
+}
+
+#iron{
+    width: 250px;
+    position: absolute;
+    top: 280px;
+    left: 150px;
+}
+
+#paragrafo1{
+    position: absolute;
+    top: 330px;
+    left: 420px;
+    color: white;
+    font-family: promo, sans-serif;
+    font-size: 25px;
+}
+
+#dodo{
+    position: absolute;
+    top: 510px;
+    left: 150px;
+    font-family: futura, sans-serif;
+    color: rgb(216, 216, 216);
+    font-size: 25px;
+}
+
+#golden{
+    width: 270px;
+    position: absolute;
+    top: 500px;;
+    left: 590px;
+}
+#paragrafo2{
+    position: absolute;
+    top: 540px;
+    left: 450px;
+    font-family: futura2, sans-serif;
+    color: rgb(216, 216, 216);
+    font-size: 40px;
+    text-align: center;
+}
+
+footer{
+    padding-top: 10px;
+    height: 200px;
+    margin: -8px;
+    background-color: rgb(15, 14, 14);
+}
+
+.blacklink{
+    color: white;
+}
+
+.blacklink :hover{
+    color: black;
+    text-decoration: none;
+}
+
+#sobre{
+    text-align: center;
+    font-family: roboto, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+#sobre2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(143, 143, 143);
+}
+
+#instagram{
+    width: 30px;
+    position: relative;
+    left: 910px;
+    top: -45px;
+}
+
