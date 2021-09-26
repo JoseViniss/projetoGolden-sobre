@@ -1,36 +1,36 @@
 @font-face {
     font-family: promo;
-    src: url(fontes/JosefinSans-Italic.ttf);
+    src: url(JosefinSans-Italic.ttf);
  }
 
  @font-face {
     font-family: bebas;
-    src: url(fontes/BebasNeue-Regular.ttf);
+    src: url(BebasNeue-Regular.ttf);
  }
 
  @font-face {
     font-family: opensans;
-    src: url(fontes/JosefinSans-Bold.ttf);
+    src: url(JosefinSans-Bold.ttf);
  }
 
  @font-face {
     font-family: roboto;
-    src: url(fontes/Roboto-MediumItalic.ttf);
+    src: url(Roboto-MediumItalic.ttf);
  }
 
  @font-face {
     font-family: roboto2;
-    src: url(fontes/Roboto-Black.ttf);
+    src: url(Roboto-Black.ttf);
  }
 
  @font-face {
     font-family: futura;
-    src: url(fontes/FuturaPTCondBook.otf);
+    src: url(FuturaPTCondBook.otf);
  }
 
  @font-face {
     font-family: futura2;
-    src: url(fontes/FuturaPTCondBookOblique.otf);
+    src: url(FuturaPTCondBookOblique.otf);
  }
 
 
